@@ -1,0 +1,2 @@
+Colocar o registro no nome do video no campo id_foto
+Motoqueiro passando pela diagonal 1a  2b e 1b 2a
